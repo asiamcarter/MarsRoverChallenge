@@ -1,0 +1,14 @@
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.exe
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.deps.json
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.json
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.dev.json
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.csproj.AssemblyReference.cache
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfoInputs.cache
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfo.cs
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
+C:\Users\asia.carter\Desktop\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.genruntimeconfig.cache
